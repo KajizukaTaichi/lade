@@ -5,4 +5,5 @@ Successor to comrade package manager
 
 ## License
 This project is licensed under the MIT (or called "X11") license.
+
 You can feel free to use, hack, and contribute Lade.
